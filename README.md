@@ -1,3 +1,3 @@
 # seanm20902.github.io
 
-# WIP
+https://seanm20902.github.io/
